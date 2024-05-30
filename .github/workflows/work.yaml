@@ -14,7 +14,7 @@ on:
     
 env:
   JD_COOKIE: ${{ secrets.JD_COOKIE }}
-  PUSH_KEY: ${{ secrets.PUSH_KEY }}
+  PUSH_KEY: SCT249153TZBJALNlensykUa6zSlMY4Dc0
   UPLOAD_BESULT_DIR: true
 
 jobs:
