@@ -13,7 +13,7 @@ on:
     types: started
     
 env:
-  JD_COOKIE: ${{ secrets.JD_COOKIE }}
+  JD_COOKIE: _octo=GH1.1.1918386014.1701331349; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=PorridgeHank; _docs-events=2450b26b-0ea9-45ce-9f54-04a46620e5f8; 
   PUSH_KEY: SCT249153TZBJALNlensykUa6zSlMY4Dc0
   UPLOAD_BESULT_DIR: true
 
